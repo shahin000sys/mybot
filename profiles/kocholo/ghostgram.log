@@ -1,0 +1,10 @@
+2026-09-07 22:43:59 - INFO - main.py:1472 - ==================================================
+2026-09-07 22:43:59 - INFO - main.py:1473 - 👻 GhostGram (روح‌گرام) is ONLINE & READY!
+2026-09-07 22:43:59 - INFO - main.py:1474 - 👤 Logged in as: Shahin (@None) [ID: 8664858069]
+2026-09-07 22:43:59 - INFO - main.py:1477 - 🧠 Primary Model: gemini-3.8-flash (Auto-Cascading enabled)
+2026-09-07 22:43:59 - INFO - main.py:1478 - 📱 Active Pal Chats (777): 0
+2026-09-07 22:43:59 - INFO - main.py:1479 - 🕵️ Auto-Engage Chats (777 engage): 0
+2026-09-07 22:43:59 - INFO - main.py:1480 - 💼 Assistant Mode (666): OFF
+2026-09-07 22:43:59 - INFO - main.py:1481 - 🚀 Listening for secret codes (777, 777 engage, 666, 000, 444, 555, 333, 999, 111, 888)...
+2026-09-07 22:43:59 - INFO - main.py:1482 - ==================================================
+2026-09-07 22:44:07 - DEBUG - main.py:982 - [MEMORY] Chat 777000 is not actively tracked. Ignoring.
